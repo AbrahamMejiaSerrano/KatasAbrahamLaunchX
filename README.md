@@ -1,2 +1,2 @@
-# CursoPython LaunchX
-Curso Python LaunchX
+# Katas Abraham LaunchX
+Katas Abraham LaunchX
